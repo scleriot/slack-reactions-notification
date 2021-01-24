@@ -1,6 +1,6 @@
 {
     "name": "Slack Reaction Notifications",
-    "description": "DynamicScreen RemoteBoard extension",
+    "description": "Get a notification for reactions in Slack",
     "version": "1.0.1",
     "manifest_version": 2,
     "author": "Simon Cleriot",
