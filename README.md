@@ -14,7 +14,7 @@ TODO:
 If for privacy reason you want to use your own Slack application, you'll need to:
 * create a classic app (in order to use the RTM API)
 * deployed a small Node.js server to initiate OAuth2 authentication
-* build the electron app
+* build the web extension (Firefox, Chrome, EdgeHTML)
 
 ### 1. Create your Slack app 
 
