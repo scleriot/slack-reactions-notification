@@ -14,7 +14,7 @@ async function notify(message) {
         title: 'Slack reaction',
         message: emoji.replace_colons(message),
         type: 'basic',
-        iconUrl: chrome.extension.getURL("/icon-16.png")
+        iconUrl: chrome.extension.getURL("/icon-128.png")
     })           
     setTimeout(() => {
         browser.notifications.clear(notifId);
