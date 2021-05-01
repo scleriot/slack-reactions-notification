@@ -3,7 +3,7 @@
 <div class="bg-gray-100 min-h-screen pt-2 font-sans">
     <div class="container mx-auto">
         <div class="inputs w-full max-w-2xl p-6 mx-auto">
-            <h2 class="text-2xl text-gray-900">Slack Reactions notification</h2>
+            <h2 class="text-2xl text-gray-900">Slack Reactions notification <a href="https://github.com/scleriot/slack-reactions-notification" target="_blank"><img src="../github-logo.png" class="h-6" /></a></h2>
             <form class="mt-6 border-t border-gray-400 pt-4 text-base">
                 <div class='flex flex-wrap -mx-3 mb-6 divide-y divide-black'>
                     <p class="mb-6">This extension will show notifications when someone reacts with an emoji to your messages on Slack 🥳.</p>
