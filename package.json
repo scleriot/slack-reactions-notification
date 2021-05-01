@@ -1,6 +1,6 @@
 {
   "name": "slack-reactions-notification",
-  "version": "1.3.1",
+  "version": "1.0.2",
   "description": "Get a notification for reactions in Slack",
   "main": "background.js",
   "scripts": {
@@ -25,7 +25,9 @@
     "socket.io-client": "^3.1.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "vue": "^2.6.12",
-    "vue-hot-reload-api": "^2.3.4"
+    "vue-hot-reload-api": "^2.3.4",
+    "vue-moment": "^4.1.0",
+    "moments": "0.0.2"
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.5",
